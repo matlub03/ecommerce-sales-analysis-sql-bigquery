@@ -44,7 +44,22 @@ The project demonstrates practical SQL skills commonly used by Data Analysts to 
 | 10 | Product Refund Rate Analysis |
 
 ---
+## 📸 Sample Query Results
 
+The following screenshots present sample outputs from selected SQL business case analyses performed using Google BigQuery.
+
+### Business Case 02 – Top 5 Products by Units Sold
+
+![Business Case 02](screenshots/business-case-02-top-products-by-units-sold-result.jpeg)
+
+### Business Case 06 – Refund Percentage Analysis
+
+![Business Case 06](screenshots/business-case-06-refund-percentage-analysis-result.jpeg)
+
+### Business Case 07 – Top Products by Average Quantity per Order
+
+![Business Case 07](screenshots/business-case-07-average-quantity-per-order-result.jpeg)
+---
 ## 💡 SQL Skills Demonstrated
 
 - SELECT
