@@ -64,10 +64,6 @@ The following screenshots present sample outputs from selected SQL business case
 
 In addition to the SQL business case analyses, I developed an interactive sales performance dashboard using **Looker Studio** based on the **Kitchen Equipment Sales (`order_test`)** dataset from Google BigQuery. The dashboard answers different business questions and demonstrates how raw data can be transformed into meaningful business insights through data visualization.
 
-### Dashboard Preview
-
-![Sales Performance Dashboard](dashboards/sales-performance-dashboard.png)
-
 ### Interactive Dashboard
 
 🔗 **View Dashboard:** https://datastudio.google.com/reporting/4fbb5a67-5de9-4191-8ae0-fb5bfd15f9e6
